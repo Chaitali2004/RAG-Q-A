@@ -1,5 +1,5 @@
 streamlit
-chromadb
+faiss-cpu
 sentence-transformers
 transformers
 pandas
