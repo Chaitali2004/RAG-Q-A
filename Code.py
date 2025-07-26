@@ -1,4 +1,4 @@
-!pip install chromadb sentence-transformers transformers streamlit gradio
+#!pip install chromadb sentence-transformers transformers streamlit gradio
 
 # Step 1: Install dependencies (Already done above)
 import pandas as pd
