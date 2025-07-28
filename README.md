@@ -1,5 +1,3 @@
-# RAG-Q-A
-
 #  RAG Q&A Chatbot – Loan Approval Dataset
 
 This project is a **Retrieval-Augmented Generation (RAG)** chatbot that intelligently answers questions based on a loan approval dataset.
